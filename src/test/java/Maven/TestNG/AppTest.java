@@ -11,7 +11,7 @@ public class AppTest
      * Rigorous Test :-)
      */
     @Test
-    public void shouldAnswerWithTrue()
+    public void JenkinsIntegration()
     {
        System.out.print("Jenkins Integration with Selenium" );
     }

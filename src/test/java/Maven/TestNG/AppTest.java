@@ -13,12 +13,12 @@ public class AppTest
     @Test
     public void JenkinsIntegration()
     {
-       System.out.print("Jenkins Integration with Selenium" );
+       System.out.println("Jenkins Integration with Selenium" );
     }
     
     @Test
     public void Print()
     {
-       System.out.print("Added another Test" );
+       System.out.print("New line : Added another Test" );
     }
 }

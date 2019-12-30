@@ -15,10 +15,14 @@ public class AppTest
     {
        System.out.println("Jenkins Integration with Selenium" );
     }
-    
+    @Test
+    public void Tomcat()
+    {
+       System.out.println("Tomcat " );
+    }
     @Test
     public void Print()
     {
-       System.out.print("New line : Added another Test" );
+       System.out.print("Added another Test" );
     }
 }

@@ -18,11 +18,11 @@ public class AppTest
     @Test
     public void Tomcat()
     {
-       System.out.println("Tomcat " );
+       System.out.println(" Github " );
     }
     @Test
     public void Print()
     {
-       System.out.print("Added another Test" );
+       System.out.println(" Added another Test" );
     }
 }

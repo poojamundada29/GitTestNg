@@ -23,6 +23,11 @@ public class AppTest
     @Test
     public void Tomcat()
     {
+       System.out.println(" Secret Edit in Github " );
+    }
+    @Test
+    public void Tomcat()
+    {
        System.out.println(" Github " );
     }
     @Test

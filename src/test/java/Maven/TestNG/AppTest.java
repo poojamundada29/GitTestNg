@@ -15,6 +15,11 @@ public class AppTest
     {
        System.out.println("Jenkins Integration with Selenium" );
     }
+	 @Test
+    public void Tomcat()
+    {
+       System.out.println(" Changes from local " );
+    }
     @Test
     public void Tomcat()
     {

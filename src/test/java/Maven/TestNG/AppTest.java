@@ -18,6 +18,11 @@ public class AppTest
     @Test
     public void Tomcat()
     {
+       System.out.println(" Edit in Github " );
+    }
+    @Test
+    public void Tomcat()
+    {
        System.out.println(" Github " );
     }
     @Test

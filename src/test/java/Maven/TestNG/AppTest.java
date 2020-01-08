@@ -16,17 +16,17 @@ public class AppTest
        System.out.println("Jenkins Integration with Selenium" );
     }
 	 @Test
-    public void Tomcat()
+    public void Tomcat1()
     {
        System.out.println(" Changes from local " );
     }
     @Test
-    public void Tomcat()
+    public void Tomcat2()
     {
        System.out.println(" Secret Edit in Github " );
     }
     @Test
-    public void Tomcat()
+    public void Tomcat3()
     {
        System.out.println(" Github " );
     }
